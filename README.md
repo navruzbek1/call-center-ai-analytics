@@ -2,8 +2,8 @@
 
 > **English summary.** A system I built that listens to call-center recordings with AI, analyzes each call
 > automatically and writes the result into the CRM. Managers get daily statistics and trends. This
-> repository is a short description only; the code is not published. Contact: Telegram
-> [@offon_ai](https://t.me/offon_ai). All rights reserved.
+> repository is a short description only; the code is not published. To design a similar AI system for
+> your business, contact me on Telegram: [@offon_ai](https://t.me/offon_ai). All rights reserved.
 
 Call-center qo'ng'iroqlarini **AI tinglab chiqadi**, har bir qo'ng'iroqni avtomatik tahlil qiladi va
 natijani **CRM'ga yozib beradi**.
@@ -31,7 +31,7 @@ Python, Gemini API, PostgreSQL, CRM REST API, Telegram Bot API.
 
 ## Aloqa
 
-Tizimni o'z call-centeringizda ishlatish yoki sinab ko'rish bo'yicha Telegram'da yozing:
+Shunga o'xshash AI tizimlarini loyihalash va joriy qilish bo'yicha Telegram'da yozing:
 **[@offon_ai](https://t.me/offon_ai)**.
 
 © 2026 Navruzbek Abduganiyev. Barcha huquqlar himoyalangan.
