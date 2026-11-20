@@ -1,0 +1,23 @@
+# Sirlar (hech qachon commit qilinmaydi)
+.env
+.env.*
+config.yaml
+
+# Haqiqiy ma'lumotlar: qo'ng'iroq yozuvlari, tahlil natijalari, loglar, bazalar
+*.wav
+*.mp3
+*.ogg
+*.log
+*.db
+analysis/
+
+# Python / IDE
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.idea/
+.vscode/
